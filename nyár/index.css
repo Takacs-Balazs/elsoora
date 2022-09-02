@@ -1,0 +1,39 @@
+*{
+    background-color: #000066		;
+}
+.focim{
+color: white;
+font-size: 70px;
+margin-top: 0px;
+margin-left: 650px;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+.desc{
+    color: white;
+}
+.egesz{
+    margin-left: 490px;
+}
+.rendor{
+    color: red;
+}
